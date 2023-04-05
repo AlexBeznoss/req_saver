@@ -1,0 +1,14 @@
+{
+  "name": "request_saver",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Alex Beznos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
